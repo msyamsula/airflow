@@ -4046,3 +4046,673 @@
   DeprecationWarning)
 [2020-11-15 16:00:48,456] {scheduler_job.py:1601} INFO - DAG(s) dict_keys(['test_dag']) retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
 [2020-11-15 16:00:48,480] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.042 seconds
+[2020-11-15 20:19:38,293] {scheduler_job.py:155} INFO - Started process (PID=4066) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:38,302] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:19:38,303] {logging_mixin.py:112} INFO - [2020-11-15 20:19:38,303] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:38,306] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:38,318] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:19:52,306] {scheduler_job.py:155} INFO - Started process (PID=4106) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:52,314] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:19:52,316] {logging_mixin.py:112} INFO - [2020-11-15 20:19:52,316] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:52,320] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:19:52,333] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.027 seconds
+[2020-11-15 20:20:06,354] {scheduler_job.py:155} INFO - Started process (PID=4136) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:06,364] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:20:06,365] {logging_mixin.py:112} INFO - [2020-11-15 20:20:06,364] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:06,367] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:06,378] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:20:20,390] {scheduler_job.py:155} INFO - Started process (PID=4164) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:20,398] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:20:20,399] {logging_mixin.py:112} INFO - [2020-11-15 20:20:20,399] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:20,402] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:20,413] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:20:34,433] {scheduler_job.py:155} INFO - Started process (PID=4207) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:34,442] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:20:34,443] {logging_mixin.py:112} INFO - [2020-11-15 20:20:34,443] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:34,445] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:34,458] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:20:48,465] {scheduler_job.py:155} INFO - Started process (PID=4256) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:48,473] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:20:48,474] {logging_mixin.py:112} INFO - [2020-11-15 20:20:48,474] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:48,476] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:20:48,487] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:21:02,491] {scheduler_job.py:155} INFO - Started process (PID=4316) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:02,499] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:21:02,499] {logging_mixin.py:112} INFO - [2020-11-15 20:21:02,499] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:02,501] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:02,513] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:21:16,545] {scheduler_job.py:155} INFO - Started process (PID=4347) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:16,555] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:21:16,556] {logging_mixin.py:112} INFO - [2020-11-15 20:21:16,556] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:16,560] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:16,572] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.027 seconds
+[2020-11-15 20:21:29,580] {scheduler_job.py:155} INFO - Started process (PID=4387) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:29,589] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:21:29,590] {logging_mixin.py:112} INFO - [2020-11-15 20:21:29,590] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:29,592] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:29,604] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:21:44,615] {scheduler_job.py:155} INFO - Started process (PID=4433) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:44,624] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:21:44,625] {logging_mixin.py:112} INFO - [2020-11-15 20:21:44,625] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:44,627] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:44,638] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:21:57,645] {scheduler_job.py:155} INFO - Started process (PID=4463) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:57,652] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:21:57,654] {logging_mixin.py:112} INFO - [2020-11-15 20:21:57,653] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:57,656] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:21:57,667] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:22:12,680] {scheduler_job.py:155} INFO - Started process (PID=4506) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:12,689] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:22:12,690] {logging_mixin.py:112} INFO - [2020-11-15 20:22:12,689] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:12,692] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:12,704] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:22:26,708] {scheduler_job.py:155} INFO - Started process (PID=4539) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:26,715] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:22:26,716] {logging_mixin.py:112} INFO - [2020-11-15 20:22:26,716] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:26,718] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:26,728] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:22:40,754] {scheduler_job.py:155} INFO - Started process (PID=4574) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:40,761] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:22:40,762] {logging_mixin.py:112} INFO - [2020-11-15 20:22:40,762] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:40,764] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:40,776] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:22:54,798] {scheduler_job.py:155} INFO - Started process (PID=4602) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:54,805] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:22:54,806] {logging_mixin.py:112} INFO - [2020-11-15 20:22:54,806] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:54,808] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:22:54,819] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:23:08,846] {scheduler_job.py:155} INFO - Started process (PID=4633) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:08,852] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:23:08,853] {logging_mixin.py:112} INFO - [2020-11-15 20:23:08,853] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:08,855] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:08,866] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:23:22,889] {scheduler_job.py:155} INFO - Started process (PID=4670) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:22,895] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:23:22,896] {logging_mixin.py:112} INFO - [2020-11-15 20:23:22,896] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:22,898] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:22,909] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:23:36,951] {scheduler_job.py:155} INFO - Started process (PID=4707) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:36,960] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:23:36,961] {logging_mixin.py:112} INFO - [2020-11-15 20:23:36,961] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:36,963] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:36,975] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:23:50,978] {scheduler_job.py:155} INFO - Started process (PID=4735) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:50,985] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:23:50,986] {logging_mixin.py:112} INFO - [2020-11-15 20:23:50,986] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:50,988] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:23:50,999] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:24:05,011] {scheduler_job.py:155} INFO - Started process (PID=4841) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:05,019] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:24:05,020] {logging_mixin.py:112} INFO - [2020-11-15 20:24:05,020] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:05,022] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:05,032] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:24:19,067] {scheduler_job.py:155} INFO - Started process (PID=4894) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:19,250] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:24:19,251] {logging_mixin.py:112} INFO - [2020-11-15 20:24:19,250] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:19,253] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:19,264] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.197 seconds
+[2020-11-15 20:24:33,107] {scheduler_job.py:155} INFO - Started process (PID=4972) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:33,114] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:24:33,115] {logging_mixin.py:112} INFO - [2020-11-15 20:24:33,115] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:33,117] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:33,127] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:24:47,151] {scheduler_job.py:155} INFO - Started process (PID=5034) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:47,159] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:24:47,160] {logging_mixin.py:112} INFO - [2020-11-15 20:24:47,159] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:47,162] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:24:47,171] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:25:01,207] {scheduler_job.py:155} INFO - Started process (PID=5063) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:01,215] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:25:01,216] {logging_mixin.py:112} INFO - [2020-11-15 20:25:01,216] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:01,219] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:01,230] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:25:15,253] {scheduler_job.py:155} INFO - Started process (PID=5095) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:15,261] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:25:15,262] {logging_mixin.py:112} INFO - [2020-11-15 20:25:15,262] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:15,265] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:15,279] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:25:29,331] {scheduler_job.py:155} INFO - Started process (PID=5130) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:29,340] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:25:29,341] {logging_mixin.py:112} INFO - [2020-11-15 20:25:29,341] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:29,343] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:29,354] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:25:43,354] {scheduler_job.py:155} INFO - Started process (PID=5164) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:43,363] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:25:43,364] {logging_mixin.py:112} INFO - [2020-11-15 20:25:43,364] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:43,366] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:43,377] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:25:57,392] {scheduler_job.py:155} INFO - Started process (PID=5193) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:57,400] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:25:57,401] {logging_mixin.py:112} INFO - [2020-11-15 20:25:57,401] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:57,403] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:25:57,414] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:26:11,428] {scheduler_job.py:155} INFO - Started process (PID=5236) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:11,438] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:26:11,439] {logging_mixin.py:112} INFO - [2020-11-15 20:26:11,438] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:11,440] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:11,451] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:26:25,487] {scheduler_job.py:155} INFO - Started process (PID=5265) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:25,497] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:26:25,498] {logging_mixin.py:112} INFO - [2020-11-15 20:26:25,498] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:25,500] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:25,512] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:26:39,530] {scheduler_job.py:155} INFO - Started process (PID=5316) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:39,751] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:26:39,752] {logging_mixin.py:112} INFO - [2020-11-15 20:26:39,752] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:39,754] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:39,765] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.236 seconds
+[2020-11-15 20:26:53,563] {scheduler_job.py:155} INFO - Started process (PID=5352) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:53,573] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:26:53,574] {logging_mixin.py:112} INFO - [2020-11-15 20:26:53,574] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:53,576] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:26:53,588] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:27:07,604] {scheduler_job.py:155} INFO - Started process (PID=5380) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:07,613] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:27:07,614] {logging_mixin.py:112} INFO - [2020-11-15 20:27:07,614] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:07,616] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:07,628] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:27:21,628] {scheduler_job.py:155} INFO - Started process (PID=5412) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:21,635] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:27:21,635] {logging_mixin.py:112} INFO - [2020-11-15 20:27:21,635] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:21,637] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:21,649] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:27:35,677] {scheduler_job.py:155} INFO - Started process (PID=5446) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:35,684] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:27:35,685] {logging_mixin.py:112} INFO - [2020-11-15 20:27:35,685] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:35,687] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:35,698] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:27:49,728] {scheduler_job.py:155} INFO - Started process (PID=5476) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:49,735] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:27:49,736] {logging_mixin.py:112} INFO - [2020-11-15 20:27:49,736] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:49,738] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:27:49,749] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:28:03,761] {scheduler_job.py:155} INFO - Started process (PID=5504) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:03,769] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:28:03,769] {logging_mixin.py:112} INFO - [2020-11-15 20:28:03,769] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:03,772] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:03,783] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:28:17,807] {scheduler_job.py:155} INFO - Started process (PID=5533) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:17,815] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:28:17,816] {logging_mixin.py:112} INFO - [2020-11-15 20:28:17,816] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:17,818] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:17,829] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:28:31,854] {scheduler_job.py:155} INFO - Started process (PID=5563) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:31,862] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:28:31,862] {logging_mixin.py:112} INFO - [2020-11-15 20:28:31,862] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:31,864] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:31,875] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:28:45,900] {scheduler_job.py:155} INFO - Started process (PID=5593) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:45,908] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:28:45,909] {logging_mixin.py:112} INFO - [2020-11-15 20:28:45,909] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:45,911] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:45,922] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:28:59,954] {scheduler_job.py:155} INFO - Started process (PID=5621) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:59,962] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:28:59,963] {logging_mixin.py:112} INFO - [2020-11-15 20:28:59,962] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:59,965] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:28:59,975] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:29:13,987] {scheduler_job.py:155} INFO - Started process (PID=5650) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:14,015] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:29:14,016] {logging_mixin.py:112} INFO - [2020-11-15 20:29:14,016] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:14,018] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:14,030] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.043 seconds
+[2020-11-15 20:29:28,055] {scheduler_job.py:155} INFO - Started process (PID=5678) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:28,062] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:29:28,063] {logging_mixin.py:112} INFO - [2020-11-15 20:29:28,062] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:28,065] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:28,076] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:29:42,105] {scheduler_job.py:155} INFO - Started process (PID=5713) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:42,114] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:29:42,115] {logging_mixin.py:112} INFO - [2020-11-15 20:29:42,115] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:42,117] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:42,128] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:29:56,162] {scheduler_job.py:155} INFO - Started process (PID=5742) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:56,170] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:29:56,171] {logging_mixin.py:112} INFO - [2020-11-15 20:29:56,170] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:56,173] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:29:56,184] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:30:10,215] {scheduler_job.py:155} INFO - Started process (PID=5771) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:10,222] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:30:10,223] {logging_mixin.py:112} INFO - [2020-11-15 20:30:10,223] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:10,225] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:10,236] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:30:24,259] {scheduler_job.py:155} INFO - Started process (PID=5800) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:24,266] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:30:24,267] {logging_mixin.py:112} INFO - [2020-11-15 20:30:24,267] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:24,269] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:24,280] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:30:38,309] {scheduler_job.py:155} INFO - Started process (PID=5830) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:38,316] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:30:38,317] {logging_mixin.py:112} INFO - [2020-11-15 20:30:38,317] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:38,319] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:38,331] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:30:52,363] {scheduler_job.py:155} INFO - Started process (PID=5859) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:52,370] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:30:52,371] {logging_mixin.py:112} INFO - [2020-11-15 20:30:52,370] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:52,373] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:30:52,384] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:31:06,402] {scheduler_job.py:155} INFO - Started process (PID=5888) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:06,411] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:31:06,412] {logging_mixin.py:112} INFO - [2020-11-15 20:31:06,411] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:06,414] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:06,425] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:31:20,455] {scheduler_job.py:155} INFO - Started process (PID=5929) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:20,462] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:31:20,463] {logging_mixin.py:112} INFO - [2020-11-15 20:31:20,463] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:20,465] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:20,476] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:31:34,491] {scheduler_job.py:155} INFO - Started process (PID=5967) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:34,498] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:31:34,499] {logging_mixin.py:112} INFO - [2020-11-15 20:31:34,499] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:34,501] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:34,513] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:31:48,537] {scheduler_job.py:155} INFO - Started process (PID=5998) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:48,555] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:31:48,556] {logging_mixin.py:112} INFO - [2020-11-15 20:31:48,556] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:48,558] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:31:48,572] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.035 seconds
+[2020-11-15 20:32:02,583] {scheduler_job.py:155} INFO - Started process (PID=6028) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:02,592] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:32:02,594] {logging_mixin.py:112} INFO - [2020-11-15 20:32:02,593] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:02,596] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:02,607] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:32:16,636] {scheduler_job.py:155} INFO - Started process (PID=6070) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:16,643] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:32:16,644] {logging_mixin.py:112} INFO - [2020-11-15 20:32:16,644] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:16,646] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:16,656] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:32:30,676] {scheduler_job.py:155} INFO - Started process (PID=6099) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:30,683] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:32:30,684] {logging_mixin.py:112} INFO - [2020-11-15 20:32:30,683] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:30,686] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:30,697] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:32:44,716] {scheduler_job.py:155} INFO - Started process (PID=6129) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:44,724] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:32:44,724] {logging_mixin.py:112} INFO - [2020-11-15 20:32:44,724] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:44,726] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:44,737] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:32:58,767] {scheduler_job.py:155} INFO - Started process (PID=6159) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:58,775] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:32:58,776] {logging_mixin.py:112} INFO - [2020-11-15 20:32:58,775] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:58,778] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:32:58,788] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:33:12,818] {scheduler_job.py:155} INFO - Started process (PID=6195) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:12,826] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:33:12,827] {logging_mixin.py:112} INFO - [2020-11-15 20:33:12,827] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:12,829] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:12,841] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:33:26,874] {scheduler_job.py:155} INFO - Started process (PID=6224) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:26,881] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:33:26,881] {logging_mixin.py:112} INFO - [2020-11-15 20:33:26,881] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:26,883] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:26,894] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:33:40,928] {scheduler_job.py:155} INFO - Started process (PID=6259) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:40,935] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:33:40,936] {logging_mixin.py:112} INFO - [2020-11-15 20:33:40,936] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:40,938] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:40,949] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:33:54,986] {scheduler_job.py:155} INFO - Started process (PID=6302) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:54,993] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:33:54,994] {logging_mixin.py:112} INFO - [2020-11-15 20:33:54,993] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:54,995] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:33:55,006] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:34:09,041] {scheduler_job.py:155} INFO - Started process (PID=6334) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:09,049] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:34:09,050] {logging_mixin.py:112} INFO - [2020-11-15 20:34:09,049] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:09,052] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:09,062] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:34:23,065] {scheduler_job.py:155} INFO - Started process (PID=6371) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:23,074] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:34:23,075] {logging_mixin.py:112} INFO - [2020-11-15 20:34:23,074] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:23,077] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:23,087] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:34:37,114] {scheduler_job.py:155} INFO - Started process (PID=6415) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:37,561] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:34:37,563] {logging_mixin.py:112} INFO - [2020-11-15 20:34:37,562] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:37,567] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:37,584] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.470 seconds
+[2020-11-15 20:34:51,157] {scheduler_job.py:155} INFO - Started process (PID=6467) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:51,165] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:34:51,166] {logging_mixin.py:112} INFO - [2020-11-15 20:34:51,166] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:51,168] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:34:51,178] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:35:05,191] {scheduler_job.py:155} INFO - Started process (PID=6495) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:05,200] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:35:05,202] {logging_mixin.py:112} INFO - [2020-11-15 20:35:05,201] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:05,204] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:05,216] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:35:19,228] {scheduler_job.py:155} INFO - Started process (PID=6525) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:19,237] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:35:19,238] {logging_mixin.py:112} INFO - [2020-11-15 20:35:19,238] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:19,241] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:19,252] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:35:33,260] {scheduler_job.py:155} INFO - Started process (PID=6564) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:33,269] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:35:33,270] {logging_mixin.py:112} INFO - [2020-11-15 20:35:33,270] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:33,273] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:33,285] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:35:47,290] {scheduler_job.py:155} INFO - Started process (PID=6597) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:47,301] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:35:47,302] {logging_mixin.py:112} INFO - [2020-11-15 20:35:47,302] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:47,304] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:35:47,319] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.029 seconds
+[2020-11-15 20:36:01,351] {scheduler_job.py:155} INFO - Started process (PID=6642) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:01,360] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:36:01,361] {logging_mixin.py:112} INFO - [2020-11-15 20:36:01,361] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:01,363] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:01,374] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:36:15,366] {scheduler_job.py:155} INFO - Started process (PID=6677) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:15,375] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:36:15,376] {logging_mixin.py:112} INFO - [2020-11-15 20:36:15,376] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:15,378] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:15,390] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:36:29,425] {scheduler_job.py:155} INFO - Started process (PID=6706) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:29,433] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:36:29,434] {logging_mixin.py:112} INFO - [2020-11-15 20:36:29,434] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:29,437] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:29,449] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:36:43,456] {scheduler_job.py:155} INFO - Started process (PID=6741) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:43,464] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:36:43,465] {logging_mixin.py:112} INFO - [2020-11-15 20:36:43,464] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:43,468] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:43,481] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:36:57,499] {scheduler_job.py:155} INFO - Started process (PID=6775) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:57,510] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:36:57,512] {logging_mixin.py:112} INFO - [2020-11-15 20:36:57,511] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:57,514] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:36:57,526] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.027 seconds
+[2020-11-15 20:37:11,546] {scheduler_job.py:155} INFO - Started process (PID=6803) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:11,949] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:37:11,951] {logging_mixin.py:112} INFO - [2020-11-15 20:37:11,951] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:11,955] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:11,970] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.425 seconds
+[2020-11-15 20:37:25,567] {scheduler_job.py:155} INFO - Started process (PID=6832) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:25,577] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:37:25,578] {logging_mixin.py:112} INFO - [2020-11-15 20:37:25,577] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:25,580] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:25,591] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:37:39,612] {scheduler_job.py:155} INFO - Started process (PID=6869) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:39,622] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:37:39,623] {logging_mixin.py:112} INFO - [2020-11-15 20:37:39,623] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:39,626] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:39,636] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:37:53,641] {scheduler_job.py:155} INFO - Started process (PID=6903) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:53,653] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:37:53,655] {logging_mixin.py:112} INFO - [2020-11-15 20:37:53,654] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:53,658] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:37:53,674] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.033 seconds
+[2020-11-15 20:38:07,687] {scheduler_job.py:155} INFO - Started process (PID=6932) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:07,695] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:38:07,697] {logging_mixin.py:112} INFO - [2020-11-15 20:38:07,696] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:07,699] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:07,712] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:38:21,739] {scheduler_job.py:155} INFO - Started process (PID=6962) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:21,749] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:38:21,750] {logging_mixin.py:112} INFO - [2020-11-15 20:38:21,749] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:21,752] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:21,762] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:38:35,766] {scheduler_job.py:155} INFO - Started process (PID=7017) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:35,775] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:38:35,776] {logging_mixin.py:112} INFO - [2020-11-15 20:38:35,776] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:35,778] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:35,789] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:38:49,807] {scheduler_job.py:155} INFO - Started process (PID=7067) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:49,816] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:38:49,818] {logging_mixin.py:112} INFO - [2020-11-15 20:38:49,817] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:49,820] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:38:49,831] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:39:19,551] {scheduler_job.py:155} INFO - Started process (PID=7154) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:19,560] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:39:19,561] {logging_mixin.py:112} INFO - [2020-11-15 20:39:19,561] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:19,564] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:19,575] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:39:33,560] {scheduler_job.py:155} INFO - Started process (PID=7188) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:33,586] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:39:33,587] {logging_mixin.py:112} INFO - [2020-11-15 20:39:33,587] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:33,590] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:33,607] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.047 seconds
+[2020-11-15 20:39:46,609] {scheduler_job.py:155} INFO - Started process (PID=7226) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:46,617] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:39:46,618] {logging_mixin.py:112} INFO - [2020-11-15 20:39:46,618] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:46,620] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:39:46,632] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:40:00,659] {scheduler_job.py:155} INFO - Started process (PID=7275) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:00,667] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:40:00,668] {logging_mixin.py:112} INFO - [2020-11-15 20:40:00,668] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:00,670] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:00,681] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:40:14,683] {scheduler_job.py:155} INFO - Started process (PID=7317) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:14,691] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:40:14,692] {logging_mixin.py:112} INFO - [2020-11-15 20:40:14,692] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:14,695] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:14,707] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:40:28,727] {scheduler_job.py:155} INFO - Started process (PID=7367) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:28,735] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:40:28,736] {logging_mixin.py:112} INFO - [2020-11-15 20:40:28,735] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:28,738] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:28,749] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:40:42,766] {scheduler_job.py:155} INFO - Started process (PID=7410) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:42,775] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:40:42,776] {logging_mixin.py:112} INFO - [2020-11-15 20:40:42,776] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:42,778] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:42,788] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:40:56,805] {scheduler_job.py:155} INFO - Started process (PID=7446) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:56,813] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:40:56,814] {logging_mixin.py:112} INFO - [2020-11-15 20:40:56,814] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:56,816] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:40:56,828] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:41:10,855] {scheduler_job.py:155} INFO - Started process (PID=7474) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:10,863] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:41:10,864] {logging_mixin.py:112} INFO - [2020-11-15 20:41:10,864] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:10,866] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:10,877] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:41:24,889] {scheduler_job.py:155} INFO - Started process (PID=7517) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:24,899] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:41:24,900] {logging_mixin.py:112} INFO - [2020-11-15 20:41:24,900] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:24,902] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:24,914] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:41:38,927] {scheduler_job.py:155} INFO - Started process (PID=7554) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:38,936] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:41:38,936] {logging_mixin.py:112} INFO - [2020-11-15 20:41:38,936] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:38,939] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:38,950] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:41:52,966] {scheduler_job.py:155} INFO - Started process (PID=7584) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:52,989] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:41:52,991] {logging_mixin.py:112} INFO - [2020-11-15 20:41:52,990] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:52,994] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:41:53,008] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.043 seconds
+[2020-11-15 20:42:07,005] {scheduler_job.py:155} INFO - Started process (PID=7650) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:07,013] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:42:07,014] {logging_mixin.py:112} INFO - [2020-11-15 20:42:07,014] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:07,016] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:07,027] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:42:21,039] {scheduler_job.py:155} INFO - Started process (PID=7704) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:21,048] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:42:21,049] {logging_mixin.py:112} INFO - [2020-11-15 20:42:21,049] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:21,051] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:21,064] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:42:35,088] {scheduler_job.py:155} INFO - Started process (PID=7741) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:35,098] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:42:35,099] {logging_mixin.py:112} INFO - [2020-11-15 20:42:35,098] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:35,102] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:35,114] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.026 seconds
+[2020-11-15 20:42:49,122] {scheduler_job.py:155} INFO - Started process (PID=7769) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:49,130] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:42:49,131] {logging_mixin.py:112} INFO - [2020-11-15 20:42:49,130] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:49,133] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:42:49,145] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:43:03,171] {scheduler_job.py:155} INFO - Started process (PID=7801) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:03,179] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:43:03,180] {logging_mixin.py:112} INFO - [2020-11-15 20:43:03,179] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:03,182] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:03,196] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:43:17,219] {scheduler_job.py:155} INFO - Started process (PID=7829) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:17,226] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:43:17,227] {logging_mixin.py:112} INFO - [2020-11-15 20:43:17,227] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:17,229] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:17,240] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:43:31,291] {scheduler_job.py:155} INFO - Started process (PID=7858) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:31,299] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:43:31,300] {logging_mixin.py:112} INFO - [2020-11-15 20:43:31,299] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:31,302] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:31,312] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:43:45,330] {scheduler_job.py:155} INFO - Started process (PID=7893) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:45,339] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:43:45,340] {logging_mixin.py:112} INFO - [2020-11-15 20:43:45,339] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:45,342] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:45,353] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:43:59,363] {scheduler_job.py:155} INFO - Started process (PID=7929) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:59,372] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:43:59,373] {logging_mixin.py:112} INFO - [2020-11-15 20:43:59,373] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:59,375] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:43:59,385] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:44:13,395] {scheduler_job.py:155} INFO - Started process (PID=7971) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:13,403] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:44:13,403] {logging_mixin.py:112} INFO - [2020-11-15 20:44:13,403] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:13,405] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:13,415] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:44:27,452] {scheduler_job.py:155} INFO - Started process (PID=8018) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:27,460] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:44:27,461] {logging_mixin.py:112} INFO - [2020-11-15 20:44:27,461] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:27,463] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:27,473] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:44:41,506] {scheduler_job.py:155} INFO - Started process (PID=8062) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:41,513] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:44:41,514] {logging_mixin.py:112} INFO - [2020-11-15 20:44:41,513] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:41,516] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:44:41,527] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:47:59,418] {scheduler_job.py:155} INFO - Started process (PID=8445) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:47:59,426] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:47:59,427] {logging_mixin.py:112} INFO - [2020-11-15 20:47:59,427] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:47:59,429] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:47:59,442] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:48:13,462] {scheduler_job.py:155} INFO - Started process (PID=8480) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:13,471] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:48:13,472] {logging_mixin.py:112} INFO - [2020-11-15 20:48:13,472] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:13,474] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:13,485] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:48:26,504] {scheduler_job.py:155} INFO - Started process (PID=8516) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:26,513] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:48:26,514] {logging_mixin.py:112} INFO - [2020-11-15 20:48:26,513] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:26,516] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:26,528] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:48:40,529] {scheduler_job.py:155} INFO - Started process (PID=8544) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:40,536] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:48:40,537] {logging_mixin.py:112} INFO - [2020-11-15 20:48:40,537] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:40,540] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:40,552] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:48:54,580] {scheduler_job.py:155} INFO - Started process (PID=8585) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:54,589] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:48:54,590] {logging_mixin.py:112} INFO - [2020-11-15 20:48:54,590] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:54,592] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:48:54,604] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:49:08,610] {scheduler_job.py:155} INFO - Started process (PID=8618) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:08,620] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:49:08,621] {logging_mixin.py:112} INFO - [2020-11-15 20:49:08,621] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:08,623] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:08,635] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:49:22,662] {scheduler_job.py:155} INFO - Started process (PID=8648) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:22,669] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:49:22,670] {logging_mixin.py:112} INFO - [2020-11-15 20:49:22,670] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:22,671] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:22,682] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.020 seconds
+[2020-11-15 20:49:36,694] {scheduler_job.py:155} INFO - Started process (PID=8707) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:36,702] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:49:36,702] {logging_mixin.py:112} INFO - [2020-11-15 20:49:36,702] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:36,704] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:36,715] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:49:50,737] {scheduler_job.py:155} INFO - Started process (PID=8743) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:50,743] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:49:50,744] {logging_mixin.py:112} INFO - [2020-11-15 20:49:50,744] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:50,747] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:49:50,759] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:55:57,660] {scheduler_job.py:155} INFO - Started process (PID=9119) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:55:57,695] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:55:57,697] {logging_mixin.py:112} INFO - [2020-11-15 20:55:57,696] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:55:57,701] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:55:57,717] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.057 seconds
+[2020-11-15 20:56:11,690] {scheduler_job.py:155} INFO - Started process (PID=9148) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:11,698] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:56:11,699] {logging_mixin.py:112} INFO - [2020-11-15 20:56:11,699] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:11,701] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:11,712] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:56:24,717] {scheduler_job.py:155} INFO - Started process (PID=9174) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:24,726] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:56:24,727] {logging_mixin.py:112} INFO - [2020-11-15 20:56:24,727] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:24,729] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:24,741] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:56:38,758] {scheduler_job.py:155} INFO - Started process (PID=9206) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:38,769] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:56:38,771] {logging_mixin.py:112} INFO - [2020-11-15 20:56:38,770] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:38,774] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:38,791] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.033 seconds
+[2020-11-15 20:56:52,789] {scheduler_job.py:155} INFO - Started process (PID=9262) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:52,797] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:56:52,798] {logging_mixin.py:112} INFO - [2020-11-15 20:56:52,797] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:52,800] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:56:52,811] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:57:06,824] {scheduler_job.py:155} INFO - Started process (PID=9306) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:06,834] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:57:06,835] {logging_mixin.py:112} INFO - [2020-11-15 20:57:06,835] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:06,838] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:06,851] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.027 seconds
+[2020-11-15 20:57:20,846] {scheduler_job.py:155} INFO - Started process (PID=9339) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:20,853] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:57:20,854] {logging_mixin.py:112} INFO - [2020-11-15 20:57:20,854] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:20,856] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:20,869] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.022 seconds
+[2020-11-15 20:57:34,878] {scheduler_job.py:155} INFO - Started process (PID=9397) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:34,886] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:57:34,886] {logging_mixin.py:112} INFO - [2020-11-15 20:57:34,886] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:34,888] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:34,901] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:57:48,930] {scheduler_job.py:155} INFO - Started process (PID=9453) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:48,939] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:57:48,940] {logging_mixin.py:112} INFO - [2020-11-15 20:57:48,940] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:48,942] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:57:48,954] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:58:02,971] {scheduler_job.py:155} INFO - Started process (PID=9488) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:02,981] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:58:02,982] {logging_mixin.py:112} INFO - [2020-11-15 20:58:02,981] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:02,984] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:02,997] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.026 seconds
+[2020-11-15 20:58:17,002] {scheduler_job.py:155} INFO - Started process (PID=9534) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:17,033] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:58:17,035] {logging_mixin.py:112} INFO - [2020-11-15 20:58:17,034] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:17,038] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:17,053] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.050 seconds
+[2020-11-15 20:58:31,035] {scheduler_job.py:155} INFO - Started process (PID=9583) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:31,045] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:58:31,046] {logging_mixin.py:112} INFO - [2020-11-15 20:58:31,046] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:31,048] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:31,059] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:58:45,051] {scheduler_job.py:155} INFO - Started process (PID=9643) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:45,061] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:58:45,062] {logging_mixin.py:112} INFO - [2020-11-15 20:58:45,062] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:45,064] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:45,075] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.024 seconds
+[2020-11-15 20:58:59,073] {scheduler_job.py:155} INFO - Started process (PID=9688) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:59,080] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:58:59,081] {logging_mixin.py:112} INFO - [2020-11-15 20:58:59,080] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:59,083] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:58:59,094] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.021 seconds
+[2020-11-15 20:59:13,105] {scheduler_job.py:155} INFO - Started process (PID=9736) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:13,112] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:59:13,113] {logging_mixin.py:112} INFO - [2020-11-15 20:59:13,113] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:13,115] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:13,129] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:59:27,155] {scheduler_job.py:155} INFO - Started process (PID=9785) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:27,164] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:59:27,166] {logging_mixin.py:112} INFO - [2020-11-15 20:59:27,165] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:27,169] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:27,180] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds
+[2020-11-15 20:59:41,192] {scheduler_job.py:155} INFO - Started process (PID=9836) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:41,201] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:59:41,202] {logging_mixin.py:112} INFO - [2020-11-15 20:59:41,201] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:41,204] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:41,215] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.023 seconds
+[2020-11-15 20:59:55,234] {scheduler_job.py:155} INFO - Started process (PID=9879) to work on /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:55,244] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py for tasks to queue
+[2020-11-15 20:59:55,245] {logging_mixin.py:112} INFO - [2020-11-15 20:59:55,245] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:55,248] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py
+[2020-11-15 20:59:55,259] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/airflow_test.py took 0.025 seconds

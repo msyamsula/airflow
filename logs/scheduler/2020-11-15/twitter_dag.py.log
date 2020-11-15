@@ -7892,3 +7892,668 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'fetching'
 [2020-11-15 16:00:47,463] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
 [2020-11-15 16:00:47,480] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.046 seconds
+[2020-11-15 20:19:37,280] {scheduler_job.py:155} INFO - Started process (PID=4064) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:37,289] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:19:37,289] {logging_mixin.py:112} INFO - [2020-11-15 20:19:37,289] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:37,291] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:37,302] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:19:51,301] {scheduler_job.py:155} INFO - Started process (PID=4105) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:51,308] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:19:51,309] {logging_mixin.py:112} INFO - [2020-11-15 20:19:51,309] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:51,312] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:19:51,328] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.027 seconds
+[2020-11-15 20:20:05,346] {scheduler_job.py:155} INFO - Started process (PID=4135) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:05,356] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:20:05,357] {logging_mixin.py:112} INFO - [2020-11-15 20:20:05,356] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:05,359] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:05,371] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:20:19,381] {scheduler_job.py:155} INFO - Started process (PID=4163) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:19,388] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:20:19,389] {logging_mixin.py:112} INFO - [2020-11-15 20:20:19,388] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:19,390] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:19,403] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:20:33,421] {scheduler_job.py:155} INFO - Started process (PID=4206) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:33,428] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:20:33,429] {logging_mixin.py:112} INFO - [2020-11-15 20:20:33,428] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:33,431] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:33,442] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:20:47,455] {scheduler_job.py:155} INFO - Started process (PID=4255) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:47,462] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:20:47,463] {logging_mixin.py:112} INFO - [2020-11-15 20:20:47,462] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:47,464] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:20:47,474] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.019 seconds
+[2020-11-15 20:21:01,490] {scheduler_job.py:155} INFO - Started process (PID=4311) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:01,498] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:21:01,498] {logging_mixin.py:112} INFO - [2020-11-15 20:21:01,498] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:01,501] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:01,513] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:21:15,537] {scheduler_job.py:155} INFO - Started process (PID=4346) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:15,546] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:21:15,547] {logging_mixin.py:112} INFO - [2020-11-15 20:21:15,547] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:15,553] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:15,566] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.029 seconds
+[2020-11-15 20:21:29,576] {scheduler_job.py:155} INFO - Started process (PID=4386) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:29,587] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:21:29,588] {logging_mixin.py:112} INFO - [2020-11-15 20:21:29,588] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:29,591] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:29,603] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.027 seconds
+[2020-11-15 20:21:43,606] {scheduler_job.py:155} INFO - Started process (PID=4432) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:43,615] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:21:43,616] {logging_mixin.py:112} INFO - [2020-11-15 20:21:43,615] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:43,618] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:43,628] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:21:57,642] {scheduler_job.py:155} INFO - Started process (PID=4462) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:57,651] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:21:57,652] {logging_mixin.py:112} INFO - [2020-11-15 20:21:57,652] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:57,656] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:21:57,667] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:22:11,671] {scheduler_job.py:155} INFO - Started process (PID=4502) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:11,679] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:22:11,681] {logging_mixin.py:112} INFO - [2020-11-15 20:22:11,680] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:11,683] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:11,696] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:22:25,702] {scheduler_job.py:155} INFO - Started process (PID=4538) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:25,709] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:22:25,710] {logging_mixin.py:112} INFO - [2020-11-15 20:22:25,709] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:25,711] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:25,723] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:22:39,749] {scheduler_job.py:155} INFO - Started process (PID=4573) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:39,756] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:22:39,757] {logging_mixin.py:112} INFO - [2020-11-15 20:22:39,757] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:39,759] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:39,769] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:22:53,792] {scheduler_job.py:155} INFO - Started process (PID=4601) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:53,798] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:22:53,799] {logging_mixin.py:112} INFO - [2020-11-15 20:22:53,799] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:53,801] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:22:53,814] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:23:07,840] {scheduler_job.py:155} INFO - Started process (PID=4632) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:07,847] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:23:07,847] {logging_mixin.py:112} INFO - [2020-11-15 20:23:07,847] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:07,849] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:07,861] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:23:21,884] {scheduler_job.py:155} INFO - Started process (PID=4667) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:21,891] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:23:21,891] {logging_mixin.py:112} INFO - [2020-11-15 20:23:21,891] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:21,893] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:21,904] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:23:35,937] {scheduler_job.py:155} INFO - Started process (PID=4706) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:35,944] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:23:35,945] {logging_mixin.py:112} INFO - [2020-11-15 20:23:35,945] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:35,947] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:35,958] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:23:49,976] {scheduler_job.py:155} INFO - Started process (PID=4734) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:49,982] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:23:49,982] {logging_mixin.py:112} INFO - [2020-11-15 20:23:49,982] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:49,985] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:23:49,995] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:24:04,004] {scheduler_job.py:155} INFO - Started process (PID=4840) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:04,030] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:24:04,030] {logging_mixin.py:112} INFO - [2020-11-15 20:24:04,030] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:04,033] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:04,045] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.041 seconds
+[2020-11-15 20:24:18,060] {scheduler_job.py:155} INFO - Started process (PID=4893) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:18,067] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:24:18,068] {logging_mixin.py:112} INFO - [2020-11-15 20:24:18,068] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:18,070] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:18,080] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:24:32,092] {scheduler_job.py:155} INFO - Started process (PID=4971) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:32,099] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:24:32,100] {logging_mixin.py:112} INFO - [2020-11-15 20:24:32,100] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:32,102] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:32,112] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:24:46,142] {scheduler_job.py:155} INFO - Started process (PID=5033) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:46,150] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:24:46,151] {logging_mixin.py:112} INFO - [2020-11-15 20:24:46,150] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:46,152] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:24:46,163] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:25:00,192] {scheduler_job.py:155} INFO - Started process (PID=5062) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:00,199] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:25:00,200] {logging_mixin.py:112} INFO - [2020-11-15 20:25:00,200] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:00,202] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:00,213] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:25:14,246] {scheduler_job.py:155} INFO - Started process (PID=5094) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:14,253] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:25:14,254] {logging_mixin.py:112} INFO - [2020-11-15 20:25:14,253] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:14,256] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:14,267] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:25:28,315] {scheduler_job.py:155} INFO - Started process (PID=5129) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:28,322] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:25:28,323] {logging_mixin.py:112} INFO - [2020-11-15 20:25:28,322] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:28,324] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:28,335] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:25:42,342] {scheduler_job.py:155} INFO - Started process (PID=5163) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:42,349] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:25:42,350] {logging_mixin.py:112} INFO - [2020-11-15 20:25:42,349] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:42,352] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:42,362] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:25:56,383] {scheduler_job.py:155} INFO - Started process (PID=5192) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:56,391] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:25:56,392] {logging_mixin.py:112} INFO - [2020-11-15 20:25:56,391] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:56,394] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:25:56,406] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:26:10,420] {scheduler_job.py:155} INFO - Started process (PID=5235) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:10,428] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:26:10,429] {logging_mixin.py:112} INFO - [2020-11-15 20:26:10,429] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:10,431] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:10,442] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:26:24,475] {scheduler_job.py:155} INFO - Started process (PID=5264) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:24,500] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:26:24,502] {logging_mixin.py:112} INFO - [2020-11-15 20:26:24,501] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:24,506] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:24,522] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.047 seconds
+[2020-11-15 20:26:38,516] {scheduler_job.py:155} INFO - Started process (PID=5308) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:38,524] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:26:38,525] {logging_mixin.py:112} INFO - [2020-11-15 20:26:38,524] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:38,527] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:38,539] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:26:52,550] {scheduler_job.py:155} INFO - Started process (PID=5351) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:52,559] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:26:52,560] {logging_mixin.py:112} INFO - [2020-11-15 20:26:52,559] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:52,562] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:26:52,575] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:27:06,594] {scheduler_job.py:155} INFO - Started process (PID=5379) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:06,602] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:27:06,603] {logging_mixin.py:112} INFO - [2020-11-15 20:27:06,602] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:06,605] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:06,617] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:27:20,623] {scheduler_job.py:155} INFO - Started process (PID=5411) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:20,630] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:27:20,631] {logging_mixin.py:112} INFO - [2020-11-15 20:27:20,630] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:20,632] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:20,644] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:27:34,668] {scheduler_job.py:155} INFO - Started process (PID=5445) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:34,674] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:27:34,675] {logging_mixin.py:112} INFO - [2020-11-15 20:27:34,675] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:34,677] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:34,688] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:27:48,720] {scheduler_job.py:155} INFO - Started process (PID=5475) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:48,727] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:27:48,728] {logging_mixin.py:112} INFO - [2020-11-15 20:27:48,728] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:48,730] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:27:48,741] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:28:02,760] {scheduler_job.py:155} INFO - Started process (PID=5503) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:02,769] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:28:02,770] {logging_mixin.py:112} INFO - [2020-11-15 20:28:02,769] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:02,773] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:02,784] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:28:16,801] {scheduler_job.py:155} INFO - Started process (PID=5532) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:16,808] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:28:16,809] {logging_mixin.py:112} INFO - [2020-11-15 20:28:16,808] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:16,811] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:16,822] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:28:30,851] {scheduler_job.py:155} INFO - Started process (PID=5560) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:30,858] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:28:30,859] {logging_mixin.py:112} INFO - [2020-11-15 20:28:30,858] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:30,861] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:30,873] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:28:44,895] {scheduler_job.py:155} INFO - Started process (PID=5592) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:44,903] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:28:44,904] {logging_mixin.py:112} INFO - [2020-11-15 20:28:44,904] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:44,906] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:44,916] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:28:58,946] {scheduler_job.py:155} INFO - Started process (PID=5620) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:58,953] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:28:58,954] {logging_mixin.py:112} INFO - [2020-11-15 20:28:58,954] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:58,956] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:28:58,967] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:29:12,982] {scheduler_job.py:155} INFO - Started process (PID=5648) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:12,989] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:29:12,990] {logging_mixin.py:112} INFO - [2020-11-15 20:29:12,989] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:12,992] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:13,005] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:29:27,034] {scheduler_job.py:155} INFO - Started process (PID=5677) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:27,040] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:29:27,041] {logging_mixin.py:112} INFO - [2020-11-15 20:29:27,041] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:27,043] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:27,054] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:29:41,096] {scheduler_job.py:155} INFO - Started process (PID=5712) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:41,104] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:29:41,104] {logging_mixin.py:112} INFO - [2020-11-15 20:29:41,104] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:41,106] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:41,118] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:29:55,157] {scheduler_job.py:155} INFO - Started process (PID=5741) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:55,165] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:29:55,166] {logging_mixin.py:112} INFO - [2020-11-15 20:29:55,166] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:55,168] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:29:55,179] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:30:09,206] {scheduler_job.py:155} INFO - Started process (PID=5770) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:09,212] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:30:09,213] {logging_mixin.py:112} INFO - [2020-11-15 20:30:09,213] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:09,215] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:09,226] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:30:23,250] {scheduler_job.py:155} INFO - Started process (PID=5799) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:23,257] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:30:23,258] {logging_mixin.py:112} INFO - [2020-11-15 20:30:23,258] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:23,260] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:23,271] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:30:37,302] {scheduler_job.py:155} INFO - Started process (PID=5829) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:37,309] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:30:37,310] {logging_mixin.py:112} INFO - [2020-11-15 20:30:37,309] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:37,312] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:37,323] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:30:51,358] {scheduler_job.py:155} INFO - Started process (PID=5858) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:51,364] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:30:51,366] {logging_mixin.py:112} INFO - [2020-11-15 20:30:51,365] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:51,368] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:30:51,378] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:31:05,398] {scheduler_job.py:155} INFO - Started process (PID=5887) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:05,406] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:31:05,407] {logging_mixin.py:112} INFO - [2020-11-15 20:31:05,407] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:05,410] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:05,422] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:31:19,447] {scheduler_job.py:155} INFO - Started process (PID=5928) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:19,454] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:31:19,455] {logging_mixin.py:112} INFO - [2020-11-15 20:31:19,455] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:19,457] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:19,468] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:31:33,485] {scheduler_job.py:155} INFO - Started process (PID=5966) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:33,508] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:31:33,509] {logging_mixin.py:112} INFO - [2020-11-15 20:31:33,509] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:33,512] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:33,523] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.039 seconds
+[2020-11-15 20:31:47,533] {scheduler_job.py:155} INFO - Started process (PID=5997) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:47,540] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:31:47,541] {logging_mixin.py:112} INFO - [2020-11-15 20:31:47,541] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:47,544] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:31:47,557] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:32:01,575] {scheduler_job.py:155} INFO - Started process (PID=6027) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:01,581] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:32:01,582] {logging_mixin.py:112} INFO - [2020-11-15 20:32:01,582] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:01,584] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:01,596] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:32:15,634] {scheduler_job.py:155} INFO - Started process (PID=6069) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:15,641] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:32:15,641] {logging_mixin.py:112} INFO - [2020-11-15 20:32:15,641] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:15,644] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:15,654] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:32:29,666] {scheduler_job.py:155} INFO - Started process (PID=6098) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:29,675] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:32:29,676] {logging_mixin.py:112} INFO - [2020-11-15 20:32:29,675] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:29,678] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:29,688] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:32:43,706] {scheduler_job.py:155} INFO - Started process (PID=6128) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:43,714] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:32:43,715] {logging_mixin.py:112} INFO - [2020-11-15 20:32:43,715] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:43,717] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:43,728] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:32:57,760] {scheduler_job.py:155} INFO - Started process (PID=6158) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:57,768] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:32:57,768] {logging_mixin.py:112} INFO - [2020-11-15 20:32:57,768] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:57,770] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:32:57,781] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:33:11,814] {scheduler_job.py:155} INFO - Started process (PID=6194) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:11,821] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:33:11,822] {logging_mixin.py:112} INFO - [2020-11-15 20:33:11,822] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:11,824] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:11,834] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:33:25,870] {scheduler_job.py:155} INFO - Started process (PID=6223) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:25,877] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:33:25,878] {logging_mixin.py:112} INFO - [2020-11-15 20:33:25,878] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:25,880] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:25,890] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:33:39,921] {scheduler_job.py:155} INFO - Started process (PID=6258) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:39,927] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:33:39,928] {logging_mixin.py:112} INFO - [2020-11-15 20:33:39,928] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:39,930] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:39,941] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:33:53,978] {scheduler_job.py:155} INFO - Started process (PID=6301) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:53,986] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:33:53,986] {logging_mixin.py:112} INFO - [2020-11-15 20:33:53,986] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:53,988] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:33:53,999] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:34:08,034] {scheduler_job.py:155} INFO - Started process (PID=6333) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:08,041] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:34:08,042] {logging_mixin.py:112} INFO - [2020-11-15 20:34:08,042] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:08,045] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:08,056] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:34:22,053] {scheduler_job.py:155} INFO - Started process (PID=6370) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:22,073] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:34:22,074] {logging_mixin.py:112} INFO - [2020-11-15 20:34:22,074] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:22,076] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:22,087] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.035 seconds
+[2020-11-15 20:34:36,102] {scheduler_job.py:155} INFO - Started process (PID=6414) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:36,111] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:34:36,112] {logging_mixin.py:112} INFO - [2020-11-15 20:34:36,111] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:36,114] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:36,126] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:34:50,149] {scheduler_job.py:155} INFO - Started process (PID=6466) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:50,156] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:34:50,157] {logging_mixin.py:112} INFO - [2020-11-15 20:34:50,157] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:50,159] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:34:50,169] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:35:04,179] {scheduler_job.py:155} INFO - Started process (PID=6494) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:04,187] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:35:04,188] {logging_mixin.py:112} INFO - [2020-11-15 20:35:04,187] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:04,190] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:04,206] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.027 seconds
+[2020-11-15 20:35:18,219] {scheduler_job.py:155} INFO - Started process (PID=6524) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:18,228] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:35:18,229] {logging_mixin.py:112} INFO - [2020-11-15 20:35:18,229] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:18,231] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:18,242] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:35:32,248] {scheduler_job.py:155} INFO - Started process (PID=6558) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:32,257] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:35:32,258] {logging_mixin.py:112} INFO - [2020-11-15 20:35:32,258] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:32,261] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:32,273] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:35:46,278] {scheduler_job.py:155} INFO - Started process (PID=6596) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:46,285] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:35:46,285] {logging_mixin.py:112} INFO - [2020-11-15 20:35:46,285] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:46,288] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:35:46,303] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:36:00,336] {scheduler_job.py:155} INFO - Started process (PID=6640) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:00,344] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:36:00,345] {logging_mixin.py:112} INFO - [2020-11-15 20:36:00,345] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:00,347] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:00,359] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:36:14,354] {scheduler_job.py:155} INFO - Started process (PID=6676) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:14,361] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:36:14,362] {logging_mixin.py:112} INFO - [2020-11-15 20:36:14,362] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:14,365] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:14,376] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:36:28,414] {scheduler_job.py:155} INFO - Started process (PID=6705) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:28,422] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:36:28,423] {logging_mixin.py:112} INFO - [2020-11-15 20:36:28,422] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:28,426] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:28,436] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:36:42,450] {scheduler_job.py:155} INFO - Started process (PID=6739) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:42,459] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:36:42,460] {logging_mixin.py:112} INFO - [2020-11-15 20:36:42,459] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:42,462] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:42,475] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:36:56,486] {scheduler_job.py:155} INFO - Started process (PID=6774) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:56,503] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:36:56,505] {logging_mixin.py:112} INFO - [2020-11-15 20:36:56,504] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:56,508] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:36:56,520] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.034 seconds
+[2020-11-15 20:37:10,534] {scheduler_job.py:155} INFO - Started process (PID=6802) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:10,542] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:37:10,543] {logging_mixin.py:112} INFO - [2020-11-15 20:37:10,543] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:10,545] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:10,555] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:37:24,563] {scheduler_job.py:155} INFO - Started process (PID=6831) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:24,572] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:37:24,573] {logging_mixin.py:112} INFO - [2020-11-15 20:37:24,573] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:24,575] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:24,585] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:37:38,602] {scheduler_job.py:155} INFO - Started process (PID=6868) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:38,611] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:37:38,613] {logging_mixin.py:112} INFO - [2020-11-15 20:37:38,612] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:38,615] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:38,627] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:37:52,632] {scheduler_job.py:155} INFO - Started process (PID=6902) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:52,641] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:37:52,642] {logging_mixin.py:112} INFO - [2020-11-15 20:37:52,642] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:52,644] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:37:52,656] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:38:06,683] {scheduler_job.py:155} INFO - Started process (PID=6931) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:06,691] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:38:06,691] {logging_mixin.py:112} INFO - [2020-11-15 20:38:06,691] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:06,694] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:06,704] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:38:20,736] {scheduler_job.py:155} INFO - Started process (PID=6961) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:20,745] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:38:20,746] {logging_mixin.py:112} INFO - [2020-11-15 20:38:20,745] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:20,748] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:20,760] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:38:34,760] {scheduler_job.py:155} INFO - Started process (PID=7016) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:34,767] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:38:34,768] {logging_mixin.py:112} INFO - [2020-11-15 20:38:34,768] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:34,770] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:34,781] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:38:48,794] {scheduler_job.py:155} INFO - Started process (PID=7066) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:48,802] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:38:48,803] {logging_mixin.py:112} INFO - [2020-11-15 20:38:48,802] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:48,805] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:38:48,817] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:39:25,543] {scheduler_job.py:155} INFO - Started process (PID=7166) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:25,553] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:39:25,554] {logging_mixin.py:112} INFO - [2020-11-15 20:39:25,553] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:25,556] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:25,568] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:39:38,587] {scheduler_job.py:155} INFO - Started process (PID=7199) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:38,596] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:39:38,597] {logging_mixin.py:112} INFO - [2020-11-15 20:39:38,597] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:38,600] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:38,612] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:39:52,632] {scheduler_job.py:155} INFO - Started process (PID=7245) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:52,642] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:39:52,643] {logging_mixin.py:112} INFO - [2020-11-15 20:39:52,642] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:52,645] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:39:52,657] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:40:06,673] {scheduler_job.py:155} INFO - Started process (PID=7294) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:06,682] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:40:06,683] {logging_mixin.py:112} INFO - [2020-11-15 20:40:06,683] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:06,685] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:06,697] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:40:20,716] {scheduler_job.py:155} INFO - Started process (PID=7344) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:20,725] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:40:20,726] {logging_mixin.py:112} INFO - [2020-11-15 20:40:20,726] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:20,728] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:20,739] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:40:34,748] {scheduler_job.py:155} INFO - Started process (PID=7383) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:34,756] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:40:34,757] {logging_mixin.py:112} INFO - [2020-11-15 20:40:34,757] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:34,759] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:34,771] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:40:48,775] {scheduler_job.py:155} INFO - Started process (PID=7430) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:48,782] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:40:48,783] {logging_mixin.py:112} INFO - [2020-11-15 20:40:48,783] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:48,785] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:40:48,797] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:41:02,831] {scheduler_job.py:155} INFO - Started process (PID=7458) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:02,840] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:41:02,841] {logging_mixin.py:112} INFO - [2020-11-15 20:41:02,840] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:02,843] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:02,855] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:41:16,872] {scheduler_job.py:155} INFO - Started process (PID=7497) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:16,880] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:41:16,881] {logging_mixin.py:112} INFO - [2020-11-15 20:41:16,881] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:16,883] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:16,895] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:41:30,917] {scheduler_job.py:155} INFO - Started process (PID=7530) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:30,926] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:41:30,927] {logging_mixin.py:112} INFO - [2020-11-15 20:41:30,927] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:30,929] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:30,941] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:41:44,949] {scheduler_job.py:155} INFO - Started process (PID=7566) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:44,958] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:41:44,959] {logging_mixin.py:112} INFO - [2020-11-15 20:41:44,959] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:44,961] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:44,973] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:41:58,991] {scheduler_job.py:155} INFO - Started process (PID=7603) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:59,002] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:41:59,003] {logging_mixin.py:112} INFO - [2020-11-15 20:41:59,003] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:59,005] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:41:59,016] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:42:13,009] {scheduler_job.py:155} INFO - Started process (PID=7687) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:13,018] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:42:13,019] {logging_mixin.py:112} INFO - [2020-11-15 20:42:13,019] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:13,022] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:13,033] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:42:27,064] {scheduler_job.py:155} INFO - Started process (PID=7723) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:27,078] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:42:27,080] {logging_mixin.py:112} INFO - [2020-11-15 20:42:27,079] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:27,083] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:27,103] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.039 seconds
+[2020-11-15 20:42:41,122] {scheduler_job.py:155} INFO - Started process (PID=7753) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:41,132] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:42:41,133] {logging_mixin.py:112} INFO - [2020-11-15 20:42:41,133] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:41,136] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:41,149] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.027 seconds
+[2020-11-15 20:42:55,145] {scheduler_job.py:155} INFO - Started process (PID=7785) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:55,153] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:42:55,154] {logging_mixin.py:112} INFO - [2020-11-15 20:42:55,153] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:55,155] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:42:55,168] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:43:09,194] {scheduler_job.py:155} INFO - Started process (PID=7813) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:09,203] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:43:09,204] {logging_mixin.py:112} INFO - [2020-11-15 20:43:09,204] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:09,207] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:09,219] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:43:23,244] {scheduler_job.py:155} INFO - Started process (PID=7842) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:23,269] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:43:23,269] {logging_mixin.py:112} INFO - [2020-11-15 20:43:23,269] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:23,272] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:23,284] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.040 seconds
+[2020-11-15 20:43:37,301] {scheduler_job.py:155} INFO - Started process (PID=7876) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:37,309] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:43:37,310] {logging_mixin.py:112} INFO - [2020-11-15 20:43:37,310] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:37,313] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:37,324] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:43:51,353] {scheduler_job.py:155} INFO - Started process (PID=7905) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:51,363] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:43:51,364] {logging_mixin.py:112} INFO - [2020-11-15 20:43:51,363] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:51,366] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:43:51,377] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:44:05,373] {scheduler_job.py:155} INFO - Started process (PID=7948) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:05,381] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:44:05,382] {logging_mixin.py:112} INFO - [2020-11-15 20:44:05,382] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:05,384] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:05,397] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:44:19,439] {scheduler_job.py:155} INFO - Started process (PID=7996) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:19,447] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:44:19,448] {logging_mixin.py:112} INFO - [2020-11-15 20:44:19,448] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:19,450] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:19,461] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:44:33,466] {scheduler_job.py:155} INFO - Started process (PID=8039) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:33,473] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:44:33,474] {logging_mixin.py:112} INFO - [2020-11-15 20:44:33,474] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:33,476] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:44:33,486] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.020 seconds
+[2020-11-15 20:48:00,433] {scheduler_job.py:155} INFO - Started process (PID=8447) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:00,441] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:48:00,442] {logging_mixin.py:112} INFO - [2020-11-15 20:48:00,442] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:00,445] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:00,456] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:48:14,477] {scheduler_job.py:155} INFO - Started process (PID=8482) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:14,485] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:48:14,486] {logging_mixin.py:112} INFO - [2020-11-15 20:48:14,486] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:14,488] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:14,499] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:48:27,500] {scheduler_job.py:155} INFO - Started process (PID=8518) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:27,509] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:48:27,510] {logging_mixin.py:112} INFO - [2020-11-15 20:48:27,510] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:27,513] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:27,524] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:48:41,528] {scheduler_job.py:155} INFO - Started process (PID=8546) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:41,534] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:48:41,535] {logging_mixin.py:112} INFO - [2020-11-15 20:48:41,535] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:41,538] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:41,549] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:48:55,571] {scheduler_job.py:155} INFO - Started process (PID=8587) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:55,576] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:48:55,577] {logging_mixin.py:112} INFO - [2020-11-15 20:48:55,577] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:55,579] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:48:55,593] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:49:09,619] {scheduler_job.py:155} INFO - Started process (PID=8620) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:09,627] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:49:09,628] {logging_mixin.py:112} INFO - [2020-11-15 20:49:09,628] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:09,630] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:09,641] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:49:23,647] {scheduler_job.py:155} INFO - Started process (PID=8657) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:23,676] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:49:23,679] {logging_mixin.py:112} INFO - [2020-11-15 20:49:23,678] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:23,684] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:23,700] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.053 seconds
+[2020-11-15 20:49:37,695] {scheduler_job.py:155} INFO - Started process (PID=8709) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:37,703] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:49:37,704] {logging_mixin.py:112} INFO - [2020-11-15 20:49:37,703] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:37,706] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:37,717] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:49:51,737] {scheduler_job.py:155} INFO - Started process (PID=8745) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:51,745] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:49:51,746] {logging_mixin.py:112} INFO - [2020-11-15 20:49:51,746] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:51,748] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:49:51,759] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:55:58,651] {scheduler_job.py:155} INFO - Started process (PID=9121) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:55:58,662] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:55:58,663] {logging_mixin.py:112} INFO - [2020-11-15 20:55:58,662] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:55:58,665] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:55:58,676] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:56:12,684] {scheduler_job.py:155} INFO - Started process (PID=9150) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:12,714] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:56:12,716] {logging_mixin.py:112} INFO - [2020-11-15 20:56:12,715] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:12,718] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:12,732] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.048 seconds
+[2020-11-15 20:56:25,732] {scheduler_job.py:155} INFO - Started process (PID=9177) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:25,742] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:56:25,743] {logging_mixin.py:112} INFO - [2020-11-15 20:56:25,743] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:25,746] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:25,757] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:56:39,759] {scheduler_job.py:155} INFO - Started process (PID=9210) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:39,767] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:56:39,768] {logging_mixin.py:112} INFO - [2020-11-15 20:56:39,768] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:39,772] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:39,789] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.030 seconds
+[2020-11-15 20:56:53,809] {scheduler_job.py:155} INFO - Started process (PID=9264) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:53,816] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:56:53,817] {logging_mixin.py:112} INFO - [2020-11-15 20:56:53,817] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:53,820] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:56:53,831] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:57:07,840] {scheduler_job.py:155} INFO - Started process (PID=9309) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:07,849] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:57:07,850] {logging_mixin.py:112} INFO - [2020-11-15 20:57:07,850] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:07,852] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:07,864] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:57:21,865] {scheduler_job.py:155} INFO - Started process (PID=9353) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:21,873] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:57:21,874] {logging_mixin.py:112} INFO - [2020-11-15 20:57:21,874] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:21,876] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:21,888] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:57:35,893] {scheduler_job.py:155} INFO - Started process (PID=9411) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:35,902] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:57:35,904] {logging_mixin.py:112} INFO - [2020-11-15 20:57:35,903] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:35,906] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:35,917] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:57:49,944] {scheduler_job.py:155} INFO - Started process (PID=9462) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:49,954] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:57:49,955] {logging_mixin.py:112} INFO - [2020-11-15 20:57:49,955] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:49,957] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:57:49,970] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.026 seconds
+[2020-11-15 20:58:03,993] {scheduler_job.py:155} INFO - Started process (PID=9490) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:04,002] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:58:04,003] {logging_mixin.py:112} INFO - [2020-11-15 20:58:04,003] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:04,005] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:04,015] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:58:18,014] {scheduler_job.py:155} INFO - Started process (PID=9536) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:18,023] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:58:18,024] {logging_mixin.py:112} INFO - [2020-11-15 20:58:18,024] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:18,026] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:18,037] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.023 seconds
+[2020-11-15 20:58:32,053] {scheduler_job.py:155} INFO - Started process (PID=9591) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:32,369] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:58:32,372] {logging_mixin.py:112} INFO - [2020-11-15 20:58:32,371] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:32,376] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:32,395] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.342 seconds
+[2020-11-15 20:58:46,061] {scheduler_job.py:155} INFO - Started process (PID=9645) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:46,070] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:58:46,071] {logging_mixin.py:112} INFO - [2020-11-15 20:58:46,071] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:46,074] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:58:46,086] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:59:00,089] {scheduler_job.py:155} INFO - Started process (PID=9695) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:00,097] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:59:00,099] {logging_mixin.py:112} INFO - [2020-11-15 20:59:00,098] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:00,101] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:00,112] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.024 seconds
+[2020-11-15 20:59:14,133] {scheduler_job.py:155} INFO - Started process (PID=9738) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:14,140] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:59:14,141] {logging_mixin.py:112} INFO - [2020-11-15 20:59:14,140] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:14,143] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:14,153] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.021 seconds
+[2020-11-15 20:59:28,172] {scheduler_job.py:155} INFO - Started process (PID=9787) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:28,182] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:59:28,183] {logging_mixin.py:112} INFO - [2020-11-15 20:59:28,183] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:28,186] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:28,197] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
+[2020-11-15 20:59:42,201] {scheduler_job.py:155} INFO - Started process (PID=9838) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:42,209] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:59:42,210] {logging_mixin.py:112} INFO - [2020-11-15 20:59:42,210] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:42,213] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:42,223] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.022 seconds
+[2020-11-15 20:59:56,250] {scheduler_job.py:155} INFO - Started process (PID=9881) to work on /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:56,260] {scheduler_job.py:1589} INFO - Processing file /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py for tasks to queue
+[2020-11-15 20:59:56,261] {logging_mixin.py:112} INFO - [2020-11-15 20:59:56,261] {dagbag.py:417} INFO - Filling up the DagBag from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:56,264] {scheduler_job.py:1603} WARNING - No viable dags retrieved from /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py
+[2020-11-15 20:59:56,275] {scheduler_job.py:163} INFO - Processing /Users/muhammadsyamsularifin/airflow/dags/twitter_dag.py took 0.025 seconds
