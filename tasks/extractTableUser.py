@@ -12,11 +12,23 @@ Users = Table("users", metadata, autoload=True)
 
 
 def main():
-    # select data from db,
-    query = select([Users])
+    # get data from buffer csv
+    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
+
+    # try to read user buffer csv
+    # if not found set param_id = 0
+    param_id = 0
+    try:
+        df = pd.read_csv(buffer_dir)
+        param_id = int(df.tail(1)["id"])
+    except FileNotFoundError:
+        pass
+    
+    # select data from db, with id greater than variable "id"
+    query = select([Users]).where(Users.c.id>param_id).limit(10)
     result = conn.execute(query)
 
-    # prepare pandas dataframe
+    # prepare pandas dataframe, new and empty
     column = [
         "id",
         "username",
@@ -39,7 +51,6 @@ def main():
             "balance": float(balance),
             "point": float(point)
         }
-        # print(df)
         df = df.append(new_row, ignore_index=True)
 
     # save to csv file

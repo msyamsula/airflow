@@ -18,7 +18,8 @@ scenario:
 		net_worth -> sum of balance and point (net_worth = balance + 10 * point)
     load it into database "sink_db", table linkaja_user
 
-problems :
-    - dag can't be run, but individual task work correctly
-    - how to manage extraction, transformation, and loading big data
+to-do :
+	- backlink, scheduler, and other time dependent variables
+	- check behaviour when dag fail
+    - send notif when dag run fail
     - discuss about airflow with other, especially data engineer, linkaja
