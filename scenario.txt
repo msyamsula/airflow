@@ -1,4 +1,5 @@
-scenario:
+scenarios:
+One (transform one to one table):
 	i have database "source_db", table users with fields
 		id, int
 		username, string
@@ -17,6 +18,21 @@ scenario:
         point -> change to decimal(15,2)
 		net_worth -> sum of balance and point (net_worth = balance + 10 * point)
     load it into database "sink_db", table linkaja_user
+Two (joining two tables):
+	i have database "source_db", table "users" (as in scenario one), "account", and "full_service"
+	account's fields are:
+		id, int
+		user_id, int, foreign key from table "users"
+		account_name, string
+	full_service's fields are:
+		account_id, int, foreign key from table "account"
+		full_service, bool
+	I want to join this two table to become "linkaja_account"
+		id, int --> refer to account_id
+		account_name, string
+		full_service, bool
+	load it to database "sink_db"
+
 
 to-do :
 	- backlink, scheduler, and other time dependent variables

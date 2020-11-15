@@ -11,16 +11,16 @@ default_args = {
     "owner": "airflow"
 }
 
-with DAG(dag_id="etl_dag", schedule_interval="*/2 * * * *", default_args=default_args, catchup=False) as dag:
+with DAG(dag_id="linkajaUser_dag", schedule_interval="*/2 * * * *", default_args=default_args, catchup=False) as dag:
 
     # extraction
-    extract = PythonOperator(task_id="extract", python_callable=extractTableUser.main)
+    extract = PythonOperator(task_id="extractUser", python_callable=extractTableUser.main)
 
     # transformation
-    transform = PythonOperator(task_id="transform", python_callable=tranformTableUser.main)
+    transform = PythonOperator(task_id="transformUser", python_callable=tranformTableUser.main)
 
     # loading
-    load = PythonOperator(task_id="load", python_callable=loadTableUser.main)
+    load = PythonOperator(task_id="loadUser", python_callable=loadTableUser.main)
 
     # dag
     extract >> transform >> load
