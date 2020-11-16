@@ -20,22 +20,44 @@ One (transform one to one table):
     load it into database "sink_db", table linkaja_user
 Two (joining two tables):
 	i have database "source_db", table "users" (as in scenario one), "account", and "full_service"
-	account's fields are:
-		id, int
-		user_id, int, foreign key from table "users"
-		account_name, string
-	full_service's fields are:
-		account_id, int, foreign key from table "account"
-		full_service, bool
-	I want to join this two table to become "linkaja_account"
-		id, int --> refer to account_id
-		account_name, string
-		full_service, bool
+		account's fields are:
+			id, int
+			user_id, int, foreign key from table "users"
+			account_name, string
+		full_service's fields are:
+			account_id, int, foreign key from table "account"
+			full_service, bool
+	I want to join this two table to become 
+		"linkaja_account"
+			id, int --> refer to account_id
+			account_name, string
+			full_service, bool
 	load it to database "sink_db"
+Three (splitting tables)
+	i have database "source_db", 
+		table "prize" consist of:
+			id, int primary key
+			account_id, int
+			item_id, int
+			item_name, string
+			collected, bool
+			value, decimal
+	I want to split the table into "account", "items", and "(prize)account_item"
+		account table:
+			as defined in scenario two
+		items' fields are:
+			id, int primary key
+			name, string
+			value, decimal
+		(prize)account_item's fields are:
+			id, int primary key
+			account_id, int
+			item_id, int
+			collected, bool
+	Load it into "sink_db"
 
 
 to-do :
-	- backlink, scheduler, and other time dependent variables
-	- check behaviour when dag fail
+	- get data from bigquery linkaja dataset
     - send notif when dag run fail
     - discuss about airflow with other, especially data engineer, linkaja
