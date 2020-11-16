@@ -8,12 +8,12 @@ engine = create_engine(uri)
 metadata = MetaData(engine)
 conn = engine.connect()
 
-Users = Table("users", metadata, autoload=True)
+Accounts = Table("accounts", metadata, autoload=True)
 
 
 def main():
     # get data from buffer csv
-    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
+    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/accounts.csv"
 
     # try to read user buffer csv
     # if not found set param_id = 0
@@ -25,36 +25,28 @@ def main():
         pass
     
     # select data from db, with id greater than variable "id"
-    query = select([Users]).where(Users.c.id>param_id).limit(1)
+    query = select([Accounts]).where(Accounts.c.id>param_id).limit(2)
     result = conn.execute(query)
 
     # prepare pandas dataframe, new and empty
     column = [
         "id",
-        "username",
-        "address",
-        "is_active",
-        "domicile",
-        "balance",
-        "point"
+        "user_id",
+        "account_name"
     ]
     df = pd.DataFrame(columns=column)
 
     # insert it into pandas
-    for id, username, address, is_active, domicile, balance, point in result:
+    for id, user_id, account_name in result:
         new_row = {
             "id": id,
-            "username": username,
-            "address": address,
-            "is_active": is_active,
-            "domicile": domicile,
-            "balance": float(balance),
-            "point": float(point)
+            "user_id": user_id,
+            "account_name": account_name
         }
         df = df.append(new_row, ignore_index=True)
 
     # save to csv file
-    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
+    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/accounts.csv"
     df.to_csv(buffer_dir, index=False)
 
 if __name__ == "__main__":

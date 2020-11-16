@@ -18,6 +18,12 @@ One (transform one to one table):
         point -> change to decimal(15,2)
 		net_worth -> sum of balance and point (net_worth = balance + 10 * point)
     load it into database "sink_db", table linkaja_user
+
+	ETL strategy:
+		- extract users
+		- transform users
+		- load users to sink_db
+
 Two (joining two tables):
 	i have database "source_db", table "users" (as in scenario one), "account", and "full_service"
 		account's fields are:
@@ -33,6 +39,14 @@ Two (joining two tables):
 			account_name, string
 			full_service, bool
 	load it to database "sink_db"
+
+	ETL strategy
+		- extract data from account
+		- extract data from full_service
+		- join this two table
+		- create new table "linkaja_account"
+		- load it to sink_db
+
 Three (splitting tables)
 	i have database "source_db", 
 		table "prize" consist of:
