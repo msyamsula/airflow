@@ -81,6 +81,8 @@ Three (splitting tables)
 
 to-do :
 	- get data from bigquery linkaja dataset
-	- how to do all scenario in one go
+	- how to do all scenario in one go, create nice compact workflow
+	- celery executor
+	- setup airflow in cloud
     - send notif when dag run fail
     - discuss about airflow with other, especially data engineer, linkaja
