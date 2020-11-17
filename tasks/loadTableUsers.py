@@ -19,7 +19,7 @@ def main():
     print(df)
 
     # load to database
-    df.to_sql(con=conn, name="linkaja_users", if_exists="append")
+    df.to_sql(con=conn, name="users", if_exists="append")
 
 if __name__ == "__main__":
     main()

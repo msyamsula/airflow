@@ -70,8 +70,17 @@ Three (splitting tables)
 			collected, bool
 	Load it into "sink_db"
 
+	ETL strategy
+	2 stage etl
+		- extract item from table prize
+		- load df1 to "items"
+
+		- get prize_id, account_id, item_id, collected from table prize (df2)
+		- dump df2 to "account_prize"
+
 
 to-do :
 	- get data from bigquery linkaja dataset
+	- how to do all scenario in one go
     - send notif when dag run fail
     - discuss about airflow with other, especially data engineer, linkaja

@@ -25,7 +25,7 @@ def main():
         pass
     
     # select data from db, with id greater than variable "id"
-    query = select([FullService]).where(FullService.c.account_id>param_id).limit(2)
+    query = select([FullService]).where(FullService.c.account_id>param_id).limit(4)
     result = conn.execute(query)
 
     # prepare pandas dataframe, new and empty

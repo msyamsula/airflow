@@ -12,11 +12,12 @@ conn = engine.connect()
 
 def main():
     # load pandas dataframe
-    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/joinAccountFullService.csv"
+    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/prize_account.csv"
     df = pd.read_csv(buffer_dir)
-    df = df.set_index("id")
+    df = df.set_index('id')
+
     # load to database
-    df.to_sql(con=conn, name="linkaja_account", if_exists="append")
+    df.to_sql(con=conn, name="prize_account", if_exists="append")
 
 if __name__ == "__main__":
     main()

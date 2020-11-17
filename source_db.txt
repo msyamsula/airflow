@@ -1,0 +1,88 @@
+create database `source_db`;
+drop database `source_db`;
+use `source_db`;
+
+create table `users` (
+	id int(15) primary key auto_increment,
+	username varchar(500),
+	address varchar(500),
+	is_active varchar(5) not null default 'yes',
+	domicile varchar(500),
+	balance decimal(10,2) default 0 not null,
+	`point` decimal(10,2) default 0 not null
+);
+
+SELECT  * from users;
+alter table accounts drop foreign key fk_user_id;
+TRUNCATE users; 
+alter table accounts add constraint fk_user_id foreign key (user_id) references users(id);
+
+INSERT into users (username, address, is_active, domicile, balance, `point`) values
+('syamsul', 'malang', 'yes', 'bandung', 5000, 100),
+('fajar', 'bandung', 'no', 'bandung', 400, 0),
+('sukarno', 'ngawi', 'yes', 'bandung', 300, 20),
+('dandi', 'jakarta', 'yes', 'jakarta', 1000, 0);
+
+UPDATE users set point=10 where username='dandi';
+
+create table accounts (
+	id int(15) primary key auto_increment,
+	user_id int(15),
+	account_name varchar(500) not null default 'default',
+	constraint fk_user_id foreign key (user_id) references users(id)
+);
+
+select * from accounts;
+
+alter table full_service drop constraint fk_account_id;
+truncate accounts;
+alter table full_service add constraint fk_account_id foreign key (account_id) references accounts(id);
+
+insert into accounts (user_id, account_name) values
+(1, 'calcul'),
+(1, 'msyamsula'),
+(2, 'fajar'),
+(4, 'dandi'),
+(4, 'rusli'),
+(4, 'linkaja');
+
+SELECT  * from accounts;
+desc accounts;
+
+create table full_service (
+	account_id int(15) not null,
+	is_full bool not null default 0,
+	constraint fk_account_id foreign key (account_id) references accounts(id)
+);
+
+insert into full_service (account_id, is_full) values
+(7, 1),
+(8, 0),
+(9, 1),
+(10, 1),
+(11, 0),
+(12, 1);
+
+select * from full_service ;
+
+create table prize (
+	id int(15) primary key auto_increment,
+	account_id int(15) not null,
+	item_id int(15) not null,
+	item_name varchar(500) not null,
+	collected bool not null default 0,
+	value decimal(15,2) not null default 0,
+	constraint fk_account_id_on_prize foreign key (account_id) references accounts(id)
+);
+
+SELECT * from prize;
+truncate prize;
+INSERT  into prize (account_id, item_id, item_name, collected, value) values
+(7, 1, 'bawang', 1, 1000),
+(7, 2, 'kulkas', 0, 5000),
+(8, 3, 'tv', 1, 4000),
+(9, 2, 'kulkas', 1, 5000),
+(9, 4, 'mecin cuci', 0, 2000),
+(9, 5, 'kacang', 0, 100);
+
+SELECT DISTINCT item_id, item_name, value from prize where item_id>0 limit 3;

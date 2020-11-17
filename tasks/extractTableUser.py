@@ -25,7 +25,7 @@ def main():
         pass
     
     # select data from db, with id greater than variable "id"
-    query = select([Users]).where(Users.c.id>param_id).limit(1)
+    query = select([Users]).where(Users.c.id>param_id).limit(3)
     result = conn.execute(query)
 
     # prepare pandas dataframe, new and empty

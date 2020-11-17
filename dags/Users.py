@@ -1,7 +1,7 @@
 from airflow import DAG
 from datetime import datetime, timedelta
 from airflow.operators.python_operator import PythonOperator
-from tasks import extractTableUser, loadTableUser, tranformTableUser
+from tasks import extractTableUser, loadTableUsers, tranformTableUser
 
 # start_date = datetime.now() - timedelta(days=1, seconds=5)
 start_date = datetime(2020,11,15,0)
@@ -20,7 +20,7 @@ with DAG(dag_id="linkajaUser_dag", schedule_interval="*/2 * * * *", default_args
     transform = PythonOperator(task_id="transformUser", python_callable=tranformTableUser.main)
 
     # loading
-    load = PythonOperator(task_id="loadUser", python_callable=loadTableUser.main)
+    load = PythonOperator(task_id="loadUser", python_callable=loadTableUsers.main)
 
     # dag
     extract >> transform >> load
