@@ -1,31 +1,22 @@
 import pandas as pd
-from sqlalchemy import create_engine, MetaData, Table, select
-from sqlalchemy.sql import select
+from sqlalchemy.sql import Select
+from connection.source import conn, Users
 
-# set up db connection
-uri = "mysql://airflow:airflow@localhost:3306/source_db"
-engine = create_engine(uri)
-metadata = MetaData(engine)
-conn = engine.connect()
-
-Users = Table("users", metadata, autoload=True)
-
-
-def main():
-    # get data from buffer csv
-    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
-
+def main(**kwargs):
+    # use ti for xcom push and pull
+    ti = kwargs["ti"]
     # try to read user buffer csv
     # if not found set param_id = 0
-    param_id = 0
+    user_id = 0
+    buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
     try:
         df = pd.read_csv(buffer_dir)
-        param_id = int(df.tail(1)["id"])
+        user_id = int(df.tail(1)["id"])
     except FileNotFoundError:
         pass
     
-    # select data from db, with id greater than variable "id"
-    query = select([Users]).where(Users.c.id>param_id).limit(3)
+    # select data from db, with id greater than variable "user_id"
+    query = Select([Users]).where(Users.c.id>user_id).limit(3)
     result = conn.execute(query)
 
     # prepare pandas dataframe, new and empty
@@ -53,9 +44,11 @@ def main():
         }
         df = df.append(new_row, ignore_index=True)
 
+    # if no data extracted, tell xcom that it is done
+    if (len(df["id"]) == 0):
+        ti.xcom_push(key="extract_user_done", value=1)
+        return None
+
     # save to csv file
     buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/users.csv"
     df.to_csv(buffer_dir, index=False)
-
-if __name__ == "__main__":
-    main()

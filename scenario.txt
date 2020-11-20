@@ -85,4 +85,5 @@ to-do :
 	- celery executor
 	- setup airflow in cloud
     - send notif when dag run fail
+	- use subdag
     - discuss about airflow with other, especially data engineer, linkaja

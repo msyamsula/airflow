@@ -4,7 +4,6 @@ def add(row):
     return row['balance']+row['point']*10
 
 def string_to_bool(row):
-    # print(row["is_active"]=="yes", row["is_active"], "yes")
     if row['is_active']=="yes":
         return 1
     

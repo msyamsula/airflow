@@ -3,6 +3,7 @@ __pycache__
 logs/*
 buffer_data/*
 airflow-webserver.pid
-.vscode
+.vscode/
 localhost.session.sql
 sqltools_*
+my_first_dag/
