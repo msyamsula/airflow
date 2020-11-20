@@ -1,7 +1,7 @@
 from airflow import DAG
 from datetime import datetime, timedelta
 from airflow.operators.python_operator import PythonOperator
-from tasks import extractTableAccount, extractTableFullService, joinAccountFullService, loadTableAccounts
+from tasks.Accounts import extractTableAccount, extractTableFullService, transformAccountFullService, loadTableAccounts
 
 # start_date = datetime.now() - timedelta(days=1, seconds=5)
 start_date = datetime(2020,11,15,0)
@@ -18,11 +18,11 @@ with DAG(dag_id="linkajaAccount_dag", schedule_interval="*/3 * * * *", default_a
     extractFullService = PythonOperator(task_id="extractFullService", python_callable=extractTableFullService.main)
 
     # transformation
-    transformAccountFullService = PythonOperator(task_id="joinAccountFullService", python_callable=joinAccountFullService.main)
+    transformAccountFullService = PythonOperator(task_id="transformAccountFullService", python_callable=transformAccountFullService.main)
 
     # loading
-    load = PythonOperator(task_id="loadLinkajaAccount", python_callable=loadTableAccounts.main)
+    loadAccount = PythonOperator(task_id="loadAccount", python_callable=loadTableAccounts.main)
 
     # dag
-    extractAccount >> transformAccountFullService >> load
-    extractFullService >> transformAccountFullService >> load
+    extractAccount >> transformAccountFullService >> loadAccount
+    extractFullService >> transformAccountFullService >> loadAccount

@@ -1,7 +1,7 @@
 from airflow import DAG
 from datetime import datetime, timedelta
 from airflow.operators.python_operator import PythonOperator
-from tasks import extractItemFromPrize, loadTableItems
+from tasks.Items import extractItemFromPrize, loadTableItems
 
 # start_date = datetime.now() - timedelta(days=1, seconds=5)
 start_date = datetime(2020,11,15,0)

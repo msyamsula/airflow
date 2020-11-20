@@ -27,6 +27,3 @@ def main():
     # save to buffer_data
     buffer_dir = "/Users/muhammadsyamsularifin/airflow/buffer_data/joinAccountFullService.csv"
     df_join.to_csv(buffer_dir)
-
-if __name__ == "__main__":
-    main()

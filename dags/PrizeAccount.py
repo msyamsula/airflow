@@ -1,9 +1,9 @@
 from airflow import DAG
 from datetime import datetime, timedelta
 from airflow.operators.python_operator import PythonOperator
-from tasks import extractPrizeAccount, loadTablePrizeAccount
+from tasks.PrizeAccount import extractPrizeAccount, loadTablePrizeAccount
 
-# start_date = datetime.now() - timedelta(days=1, seconds=5)
+# start date
 start_date = datetime(2020,11,15,0)
 
 default_args = {

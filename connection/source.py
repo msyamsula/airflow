@@ -6,3 +6,5 @@ metadata = MetaData(engine)
 conn = engine.connect()
 
 Users = Table("users", metadata, autoload=True)
+Accounts = Table("accounts", metadata, autoload=True)
+FullService = Table("full_service", metadata, autoload=True)
